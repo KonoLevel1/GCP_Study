@@ -1,0 +1,2 @@
+# GCP_Study
+GCPデプロイ関連練習用リポジトリ、ArtifactRegistryやらCloudRunやら
